@@ -1,8 +1,8 @@
 $gemspec = Gem::Specification.new do |s|
   s.name     = 'bmedia-casserver'
   s.version  = '1.1.1'
-  s.authors  = ["Matt Zukowski"]
-  s.email    = ["matt@zukowski.ca"]
+  s.authors  = ["Matt Zukowski", "Patrick Peak"]
+  s.email    = ["matt@zukowski.ca", "ppeak@browsermedia.com"]
   s.homepage = 'https://github.com/browsermedia/rubycas-server'
   s.platform = Gem::Platform::RUBY
   s.summary  = %q{Provides single sign-on authentication for web applications using the CAS protocol.}
