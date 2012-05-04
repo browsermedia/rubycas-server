@@ -1,6 +1,6 @@
 $gemspec = Gem::Specification.new do |s|
   s.name     = 'bmedia-casserver'
-  s.version  = '1.1.1'
+  s.version  = '1.1.2'
   s.authors  = ["Matt Zukowski", "Patrick Peak"]
   s.email    = ["matt@zukowski.ca", "ppeak@browsermedia.com"]
   s.homepage = 'https://github.com/browsermedia/rubycas-server'
